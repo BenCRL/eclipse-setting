@@ -4,3 +4,5 @@
 4.Eclipse Class Decompiler
 5.FindBugs
 6.MyBatipse
+7.jrebel
+8.subeclipse
