@@ -6,3 +6,20 @@
 6.MyBatipse
 7.jrebel
 8.subeclipse
+9.Optimizer for Eclipse
+10.eclipse-pmd
+11.Jeeeyul's Eclipse Themes
+12.Eclipse Code Recommenders
+13.Emmet (ex-Zen Coding) Eclipse plugin
+14.Unnecessary Code Detector
+15.EclEmma Java Code Coverage
+16.JVM Monitor
+17.EasyShell
+18.MoreUnit
+19.JSHint Eclipse
+20.StartExplorer
+21.Grep Console
+22.JFormDesigner - Swing GUI Designer
+23.WindowBuilder
+24.PMD Eclipse
+https://www.ibm.com/developerworks/cn/java/j-lo-statictest-tools/
