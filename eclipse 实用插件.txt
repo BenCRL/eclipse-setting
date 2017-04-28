@@ -22,4 +22,6 @@
 22.JFormDesigner - Swing GUI Designer
 23.WindowBuilder
 24.PMD Eclipse
+25.JVM Monitor
+26.Memory Analyzer
 https://www.ibm.com/developerworks/cn/java/j-lo-statictest-tools/
